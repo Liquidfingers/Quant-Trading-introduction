@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Manim generated files
+media/
+
+# Operating system
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+
+# Environment variables
+.env
+
+# Temporary files
+*.log
+*.tmp
